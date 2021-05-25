@@ -89,6 +89,7 @@ public class Converter {
 					}
 					
 				}
+				break;
 				
 				//Outer switch statement for mass measurement
 			case 2:
@@ -132,6 +133,7 @@ public class Converter {
 					
 					
 				}
+				break;
 				 
 				//Outer statement for volume measurement
 			case 3:
@@ -173,7 +175,7 @@ public class Converter {
 					}
 					
 				}
-				
+				break;
 			case 4:
 				System.out.println("Quit");
 				break;
